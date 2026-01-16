@@ -14,7 +14,7 @@ interface Post {
   body: string;
 }
 
-const API_URL = 'https://jsonplaceholder.typicode.com/postss';
+const API_URL = 'https://jsonplaceholder.typicode.com/posts';
 const ITEMS_PER_PAGE = 30;
 const DEBOUNCE_DELAY = 300;
 
